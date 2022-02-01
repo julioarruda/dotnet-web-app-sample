@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using System.Xml;
 
-namespace dotnet_web_app_sample.Pages;
+namespace demo_octocat.Pages;
 
 public class IndexModel : PageModel
 {

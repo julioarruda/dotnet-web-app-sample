@@ -8,7 +8,7 @@
     }
   },
   "profiles": {
-    "dotnet_web_app_sample": {
+    "demo_octocat": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
